@@ -1,0 +1,29 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.box {
+  display: inline-block;
+  width: 100px;
+  height: 80px;
+
+  border: white 1px solid;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+
+  justify-content: center;
+  align-items: center;
+}
+
+.user-action {
+  display: flex;
+  flex-direction: row;
+  gap: 18px;
+  align-items: center;
+}

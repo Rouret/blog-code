@@ -1,0 +1,1 @@
+- [Stop using useQuery from React-Query !](https://rouret.hashnode.dev/stop-using-usequery-from-react-query) => [code](./stop-using-useQuery/)
